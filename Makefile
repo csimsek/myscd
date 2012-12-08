@@ -1,3 +1,4 @@
+# csimsek
 CC             = gcc
 CFLAGS         = -g -O3 -Wall -pedantic -pedantic-errors
 SRCS           = myscd.c checker.c responder.c daemon.c utils.c iniparser/iniparser.c iniparser/dictionary.c iniparser/strlib.c
